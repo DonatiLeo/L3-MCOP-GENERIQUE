@@ -9,6 +9,4 @@ public class Test {
 		System.out.println(calcul.apply(x));
 		System.out.println(calcul.undo(calcul.apply(x)));
 	}
-
-	
 }
