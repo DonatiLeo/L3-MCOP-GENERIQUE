@@ -6,8 +6,10 @@ public class LogExp implements BijectiveFunction<Double> {
 		return Math.log(t);
 	}
 
+	
 	@Override
 	public Double undo(Double t) {
+		//Fonction exponentielle
 		return Math.exp(t);
 	}
 }
