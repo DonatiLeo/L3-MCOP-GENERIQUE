@@ -4,4 +4,4 @@
 
 ## Partie 2 : généricité, classes anonymes, expressions lambda
 
-### Exemples donnés dans le cours
+### 2.1 Exemples de généricité
